@@ -1,0 +1,15 @@
+.header,.hero,.body,.bar,.footer{
+    background-color: black;
+    margin-bottom: 10px;
+} 
+.box{
+    min-height: 100px;
+    margin: 10px 0px;
+    font-size: 30px;
+    background-color: blueviolet;
+    color: white;
+
+} 
+.pink{
+    background-color: #f834e3;
+}
